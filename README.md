@@ -33,7 +33,7 @@ Códigos de la generación 26 de la Licenciatura en Diseño Digital de ICONOS
 * Si necesitas ir al baño, no pidas permiso, sal, sin interrumpir la clase.
 * Después de las 8:15am el estudiante que deseé entrar tiene 2 opciones:
   * Hacer un Burpee por cada minuto que haya pasado desde las 8:00am hasta su hora de llegada.
-  * Se le restará un punto en su calificación parcial por cada minuto pasado desde las 8:15am.
+  * Se le restará una décima en su calificación parcial por cada minuto pasado desde las 8:15am.
 * Después de las 8:30am ya no hay acceso a la clase.
 * Las reglas de acceso también aplican para el docente.
 
