@@ -81,18 +81,18 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 
 | Nombre | Actividades | Inasistencias | Calificación Final |
 | -- | -- | -- | -- |
-| Mariana |  | 0 | ?? |
-| Iván |  | 0 | ?? |
-| Abigail |  | 0 | ?? |
-| Rodrigo |  | 1 | ?? |
-| Jesús |  | 0 | ?? |
-| Fabrizzio |  | 0 | ?? |
-| Arturo |  | 0 | ?? |
-| Silvana |  | 0 | ?? |
-| César |  | 0 | ?? |
-| Akira |  | 0 | ?? |
-| Fátima |  | 0 | ?? |
-| Rafael |  | 1 | ?? |
+| Mariana | 10 | 0 | ?? |
+| Iván | 10 | 0 | ?? |
+| Abigail | 10 | 0 | ?? |
+| Rodrigo | 0 | 1 | ?? |
+| Jesús | 10 | 0 | ?? |
+| Fabrizzio | 10 | 0 | ?? |
+| Arturo | 10 | 0 | ?? |
+| Silvana | 10 | 0 | ?? |
+| César | 10 | 0 | ?? |
+| Akira | 10 | 0 | ?? |
+| Fátima | 10 | 0 | ?? |
+| Rafael | 0 | 1 | ?? |
 
 ### Clase 1
 
