@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Ejercicio de Maquetación</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation.min.css">
+  <style>
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      grid-gap: 1rem;
+    }
+
+    .grid > * {
+      background-color: steelblue;
+    }
+  </style>
+</head>
+<body>
+  <h1>Ejercicio de Maquetación</h1>
+  <h2>Con el framework Materialize</h2>
+  <!-- section.container>div.row>(article.col.s12.m6.l4.xl3{Elemento $})*12 -->
+  <section class="container">
+    <div class="row">
+      <article class="col s12 m6 l4 xl3">Elemento 1</article>
+      <article class="col s12 m6 l4 xl3">Elemento 2</article>
+      <article class="col s12 m6 l4 xl3">Elemento 3</article>
+      <article class="col s12 m6 l4 xl3">Elemento 4</article>
+      <article class="col s12 m6 l4 xl3">Elemento 5</article>
+      <article class="col s12 m6 l4 xl3">Elemento 6</article>
+      <article class="col s12 m6 l4 xl3">Elemento 7</article>
+      <article class="col s12 m6 l4 xl3">Elemento 8</article>
+      <article class="col s12 m6 l4 xl3">Elemento 9</article>
+      <article class="col s12 m6 l4 xl3">Elemento 10</article>
+      <article class="col s12 m6 l4 xl3">Elemento 11</article>
+      <article class="col s12 m6 l4 xl3">Elemento 12</article>
+    </div>
+  </section>
+  <h2>Con el framework Foundation</h2>
+  <section class="grid-container">
+    <div class="grid-x">
+      <article class="cell small-12 medium-6 large-3">Elemento 1</article>
+      <article class="cell small-12 medium-6 large-3">Elemento 2</article>
+      <article class="cell small-12 medium-6 large-3">Elemento 3</article>
+      <article class="cell small-12 medium-6 large-3">Elemento 4</article>
+      <article class="cell small-12 medium-6 large-3">Elemento 5</article>
+      <article class="cell small-12 medium-6 large-3">Elemento 6</article>
+      <article class="cell small-12 medium-6 large-3">Elemento 7</article>
+      <article class="cell small-12 medium-6 large-3">Elemento 8</article>
+      <article class="cell small-12 medium-6 large-3">Elemento 9</article>
+      <article class="cell small-12 medium-6 large-3">Elemento 10</article>
+      <article class="cell small-12 medium-6 large-3">Elemento 11</article>
+      <article class="cell small-12 medium-6 large-3">Elemento 12</article>
+    </div>
+  </section>
+  <h2>Sin frameworks, con el módulo GRID CSS</h2>
+  <section class="grid">
+    <article>Elemento 1</article>
+    <article>Elemento 2</article>
+    <article>Elemento 3</article>
+    <article>Elemento 4</article>
+    <article>Elemento 5</article>
+    <article>Elemento 6</article>
+    <article>Elemento 7</article>
+    <article>Elemento 8</article>
+    <article>Elemento 9</article>
+    <article>Elemento 10</article>
+    <article>Elemento 11</article>
+    <article>Elemento 12</article>
+  </section>
+  <h3>Aprende Grid</h3>
+  <ul>
+    <li><a href="https://ed.team/blog/introduccion-grid-css" target="_blank">Introducción a Grid</a></li>
+    <li><a href="https://ed.team/blog/posicionamiento-grid-css" target="_blank">Posicionamiento Grid</a></li>
+    <li><a href="https://ed.team/blog/responsive-design-con-grid-css-y-sin-media-queries" target="_blank">Responsive Design con Grid CSS y sin Media Queries
+    </a></li>
+  </ul>
+</body>
+</html>
