@@ -12,17 +12,17 @@ Códigos de la generación 26 de la Licenciatura en Diseño Digital de ICONOS
 
 | Nombre | Correo |
 | -- | -- |
-| Mariana | cloudinae@hotmail.com |
-| Iván | momiado-kiti@hotmail.com |
-| Abigail | abigail_crs@outlook.com |
+| [Mariana](https://github.com/Cloudinita) | cloudinae@hotmail.com |
+| [Iván](https://github.com/Momiado) | momiado-kiti@hotmail.com |
+| [Abigail](https://github.com/Abigailico) | abigail_crs@outlook.com |
 | Rodrigo | ????? |
-| Jesús | sinisterg@hotmail.com |
-| Fabrizzio | fmlive10@hotmail.com |
-| Arturo | arturo.mendoza196df@gmail.com |
-| Silvana | silvana.iconos@gmail.com |
-| César | hunter343@live.com.mx |
-| Akira | akiratg93@gmail.com |
-| Fátima | aglaeleyva@hotmail.com |
+| [Jesús](https://github.com/YisusLOU) | sinisterg@hotmail.com |
+| [Fabrizzio](https://github.com/FabrizzioFML) | fmlive10@hotmail.com |
+| [Arturo]() | arturo.mendoza196df@gmail.com |
+| [Silvana](https://github.com/Siil10) | silvana.iconos@gmail.com |
+| [César](https://github.com/CesarRodriguez97) | hunter343@live.com.mx |
+| [Akira](https://github.com/Akiratg) | akiratg93@gmail.com |
+| [Fátima](https://github.com/fatimaaglae) | aglaeleyva@hotmail.com |
 | Rafael | ????? |
 
 ## Reglamento de clase
