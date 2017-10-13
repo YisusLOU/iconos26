@@ -18,12 +18,12 @@ Códigos de la generación 26 de la Licenciatura en Diseño Digital de ICONOS
 | Rodrigo | ????? |
 | [Jesús](https://github.com/YisusLOU) | sinisterg@hotmail.com |
 | [Fabrizzio](https://github.com/FabrizzioFML) | fmlive10@hotmail.com |
-| [Arturo]() | arturo.mendoza196df@gmail.com |
+| [Arturo](https://github.com/granjefaso) | arturo.mendoza196df@gmail.com |
 | [Silvana](https://github.com/Siil10) | silvana.iconos@gmail.com |
 | [César](https://github.com/CesarRodriguez97) | hunter343@live.com.mx |
 | [Akira](https://github.com/Akiratg) | akiratg93@gmail.com |
 | [Fátima](https://github.com/fatimaaglae) | aglaeleyva@hotmail.com |
-| Rafael | ????? |
+| [Rafael](https://github.com/RafaelMitre29) | rafaelmitre29@gmail.com |
 
 ## Reglamento de clase
 
@@ -78,21 +78,26 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 1. Crear su cuenta en GitHub (clase 1 x 1).
 1. Crear un repositorio para el proyecto final (clase 1 x 1).
 1. Crear un archivo README.md en el cuál el alumno agregue la información de su proyecto final (clase 1 x 1).
+1. Definir y describir el mapa de sitio del proyecto (clase 2 X 1).
+1. Decidir si es un sitio One page o Multi page (clase 2 X 1).
+1. Definición del wireframe del patrón de navegación para móvil y para desktop (clase 2 X 2).
+1. Definir conceptualmente un objeto del mundo real con 3 atributos y 3 métodos, no se vale usar Animales (clase 2 X 1).
+
 
 | Nombre | Actividades | Inasistencias | Calificación Final |
 | -- | -- | -- | -- |
-| Mariana | 10 | 0 | ?? |
-| Iván | 10 | 0 | ?? |
-| Abigail | 10 | 0 | ?? |
+| Mariana | 10 + 10 + 10 + 10 | 0 | ?? |
+| Iván | 10 + 10 + 10 + 0 | 0 | ?? |
+| Abigail | 10 + 10 + 10 + 10 | 0 | ?? |
 | Rodrigo | 0 | 1 | ?? |
-| Jesús | 10 | 0 | ?? |
-| Fabrizzio | 10 | 0 | ?? |
-| Arturo | 10 | 0 | ?? |
-| Silvana | 10 | 0 | ?? |
-| César | 10 | 0 | ?? |
-| Akira | 10 | 0 | ?? |
-| Fátima | 10 | 0 | ?? |
-| Rafael | 0 | 1 | ?? |
+| Jesús | 10 + 10 + 10 + 10 | 0 | ?? |
+| Fabrizzio | 10 + 10 + 10 + 10 | 0 | ?? |
+| Arturo | 10 + 10 + 0 + 0 | 0 | ?? |
+| Silvana | 10 + 10 + 10 + 10 | 0 | ?? |
+| César | 10 + 10 + 10 + 10 | 0 | ?? |
+| Akira | 10 + 10 + 10 + 10 | 0 | ?? |
+| Fátima | 10 + 10 + 10 + 10 | 0 | ?? |
+| Rafael | 0 + 10 + 10 + 10 | 1 | ?? |
 
 ### Clase 1
 
