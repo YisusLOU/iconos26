@@ -82,22 +82,24 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 1. Decidir si es un sitio One page o Multi page (clase 2 X 1).
 1. Definición del wireframe del patrón de navegación para móvil y para desktop (clase 2 X 2).
 1. Definir conceptualmente un objeto del mundo real con 3 atributos y 3 métodos, no se vale usar Animales (clase 2 X 1).
+1. Programar un objeto en JS (clase 3 X 2)
 
+ + 10 + 10 + 20 + 10
 
 | Nombre | Actividades | Inasistencias | Calificación Final |
 | -- | -- | -- | -- |
-| Mariana | 10 + 10 + 10 + 10 | 0 | ?? |
-| Iván | 10 + 10 + 10 + 0 | 0 | ?? |
-| Abigail | 10 + 10 + 10 + 10 | 0 | ?? |
-| Rodrigo | 0 | 1 | ?? |
-| Jesús | 10 + 10 + 10 + 10 | 0 | ?? |
-| Fabrizzio | 10 + 10 + 10 + 10 | 0 | ?? |
-| Arturo | 10 + 10 + 0 + 0 | 0 | ?? |
-| Silvana | 10 + 10 + 10 + 10 | 0 | ?? |
-| César | 10 + 10 + 10 + 10 | 0 | ?? |
-| Akira | 10 + 10 + 10 + 10 | 0 | ?? |
-| Fátima | 10 + 10 + 10 + 10 | 0 | ?? |
-| Rafael | 0 + 10 + 10 + 10 | 1 | ?? |
+| Mariana | 10 + 10 + 10 + 10 + 10 + 10 + 20 + 10 | 0 | ?? |
+| Iván | 10 + 10 + 10 + 0 + 10 + 10 + 20 + 10 | 0 | ?? |
+| Abigail | 10 + 10 + 10 + 10 + 10 + 10 + 20 + 10 | 0 | ?? |
+| Rodrigo | 0 | 3 | ?? |
+| Jesús | 10 + 10 + 10 + 10 + 10 + 10 + 20 + 10 | 0 | ?? |
+| Fabrizzio | 10 + 10 + 10 + 10 + 10 + 10 + 20 + 10 | 0 | ?? |
+| Arturo | 10 + 10 + 0 + 0 + 0 + 0 + 0 + 0 | 1 | ?? |
+| Silvana | 10 + 10 + 10 + 10 + 10 + 10 + 20 + 10 | 0 | ?? |
+| César | 10 + 10 + 10 + 10 + 10 + 10 + 20 + 10 | 0 | ?? |
+| Akira | 10 + 10 + 10 + 10 + 10 + 10 + 20 + 10 | 0 | ?? |
+| Fátima | 10 + 10 + 10 + 10 + 10 + 10 + 20 + 10 | 0 | ?? |
+| Rafael | 0 + 10 + 10 + 10 + 0 + 0 + 0 + 10 | 1 | ?? |
 
 ### Clase 1
 
@@ -112,10 +114,11 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 ### Clase 3
 
 * Funciones y variables
-  * Declaración y Invocación
+  * Declaración e Invocación
   * Interpolación de variables
   * Valores por defecto
-  * Encapsulamiento de código (Funciones Anónimas AutoInvocadas)
+  * Encapsulamiento de código
+  * Funciones Anónimas AutoInvocadas
 * Objetos en JS
   * Literales
   * Clases

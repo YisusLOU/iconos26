@@ -18,7 +18,7 @@ function saludo (nombre = 'ICONOS') {
 //saludo('Tete')
 //saludo()
 ;
-//Es buena práctica encapsular tu código en una función anónima autoejecutable
+//Es buena práctica encapsular tu código en una función anónima autoinvocada
 (function (d, w) {
   //alert(d)
   //alert(w)
@@ -98,6 +98,7 @@ function saludo (nombre = 'ICONOS') {
 
 /* Clases */
 (function (c) {
+  c('*****Clases*****')
   /* Una clase es un modelo a seguir, un machote */
   class Perro {
     //El constructor es un método especial que se ejecuta en el momento de instanciar la clase
