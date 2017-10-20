@@ -109,6 +109,17 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 
 * [Introducción a la Programación en JavaScript](https://jonmircha.github.io/edjs-paradigmas2017/)
 
+### Clase 3
+
+* Funciones y variables
+  * Declaración y Invocación
+  * Interpolación de variables
+  * Valores por defecto
+  * Encapsulamiento de código (Funciones Anónimas AutoInvocadas)
+* Objetos en JS
+  * Literales
+  * Clases
+
 ## Segundo Parcial
 
 ### Evaluación: ????

@@ -95,3 +95,59 @@ function saludo (nombre = 'ICONOS') {
   perro2.comer('tacos')
   perro2.aparecer('http://de10.com.mx/sites/default/files/styles/detalle_nota/public/field/image/shutterstock_122056762-boxer.jpg?itok=7ZKh-CgR')
 })(console.log);
+
+/* Clases */
+(function (c) {
+  /* Una clase es un modelo a seguir, un machote */
+  class Perro {
+    //El constructor es un método especial que se ejecuta en el momento de instanciar la clase
+    constructor (nombre, edad, esterilizado, raza, genero) {
+      //Definición de los Atributos de mi clase
+      this.nombre = nombre
+      this.edad = edad
+      this.esterilizado = esterilizado
+      this.raza = raza
+      this.genero = genero
+    }
+
+    //Definición de los métodos de mi clase
+    ladrar () {
+      c('Guauuu guauuu!!!')
+    }
+
+    comer (comida = 'croquetas') {
+      c(`${this.nombre} come ${comida}`)
+    }
+
+    aparecer (imagen) {
+      document.write(`<img src="${imagen}">`)
+    }
+  }
+
+  //La palabra new me permite crear o INSTANCIAR un objeto de un tipo determinado de clase
+  const firulais = new Perro('Firulais', 3, false, 'Callejero', 'Macho')
+  const frida = new Perro('Frida', 7, true, 'Labrador', 'Hembra')
+
+  c(
+    firulais,
+    firulais.nombre,
+    firulais.edad,
+    firulais.raza,
+    firulais.genero,
+    firulais.esterilizado,
+    frida,
+    frida.nombre,
+    frida.edad,
+    frida.raza,
+    frida.genero,
+    frida.esterilizado,
+  )
+
+  firulais.ladrar()
+  firulais.comer()
+  firulais.aparecer('http://i0.wp.com/cinicosdesinope.com/wp-content/uploads/2015/09/firulais-perro-mascota-rugrats-personajes.png')
+
+  frida.ladrar()
+  frida.comer()
+  frida.aparecer('https://cdn.heraldodemexico.com.mx/wp-content/uploads/2017/09/heraldo-de-mexico-frida-juchitan-1024x682.jpg')
+})(console.log);
