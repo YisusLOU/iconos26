@@ -84,8 +84,6 @@ Al finalizar el curso el estudiante aprenderá los fundamentos de programación 
 1. Definir conceptualmente un objeto del mundo real con 3 atributos y 3 métodos, no se vale usar Animales (clase 2 X 1).
 1. Programar un objeto en JS (clase 3 X 2)
 
- + 10 + 10 + 20 + 10
-
 | Nombre | Actividades | Inasistencias | Calificación Final |
 | -- | -- | -- | -- |
 | Mariana | 10 + 10 + 10 + 10 + 10 + 10 + 20 + 10 | 0 | ?? |
